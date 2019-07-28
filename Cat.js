@@ -4,4 +4,6 @@ function Cat() {
 
 Cat.prototype = function Eat() {
     this.eat = [];
-}
+};
+
+// add 
