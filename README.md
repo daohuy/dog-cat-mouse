@@ -9,3 +9,4 @@ git commit
 
 git log
 git show
+git diff
