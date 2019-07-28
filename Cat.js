@@ -2,4 +2,6 @@ function Cat() {
     console.log('Name : Tom !!!');
 };
 
-Cat();
+Cat.prototype = function Eat() {
+    this.eat = [];
+}
