@@ -29,6 +29,11 @@ git merge
 git branch -D <branch></branch>
     
 // 6
-git reset --soft <to_commit>
-git reset --mixed <to_commit>
-gir reset --hard <to_commit>
+git reset --soft <to_commit> tro ve trang thai truoc commit
+git reset --mixed <to_commit> tro ve trang thai truoc add 
+gir reset --hard <to_commit> bo an commit do lun, bo het commit de tro ve
+
+//7
+
+git revert <commit> hoan lai trang thai luc truoc tren 1 commit thoi do +++    
+    
